@@ -7,6 +7,10 @@
 - [ ] assignment 1
 
 5.2
-- [ ] official note1 & note2
-- [ ] lecture 2 questions
+- [x] cs224n-2019-notes01-wordvecs1
 - [ ] assignment 1
+
+5.3
+- [ ] assignment 1
+- [ ] numpy tutotial
+- [ ] numpy broadcast

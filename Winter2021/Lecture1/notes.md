@@ -27,3 +27,5 @@ a distributed representation
 
 ## Q&A
 - Q: P8 cross entropy和CBOW最终的objective function有啥关系？
+
+- Q: Hierarchical Softmax深入理解。 以及所有word2vec的代码具体实现？

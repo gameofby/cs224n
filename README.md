@@ -1,1 +1,1 @@
-# cs224n
+cs224n winter 2021, including course materials and my solution of assignments.
