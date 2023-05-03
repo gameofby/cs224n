@@ -12,5 +12,6 @@
 
 5.3
 - [ ] assignment 1
-- [ ] numpy tutotial
-- [ ] numpy broadcast
+	- [x] core
+	- [ ] numpy tutotial
+	- [ ] numpy broadcast
