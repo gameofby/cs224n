@@ -1,6 +1,6 @@
 
 # Video
-用dot product来计算word similarity是一种很常见的方法。 0\*0不影响结果，+ \* -减少结果，同号相成增大结果。  结果越大，说明两个词越相似
+用dot product来计算word similarity是一种很常见的方法。 0\*0不影响结果，+ \* -减小结果，同号相乘增大结果。  结果越大，说明两个词越相似
 
 
 ## Q&A
@@ -28,4 +28,4 @@ a distributed representation
 ## Q&A
 - Q: P8 cross entropy和CBOW最终的objective function有啥关系？
 
-- Q: Hierarchical Softmax深入理解。 以及所有word2vec的代码具体实现？
+- Q: Hierarchical Softmax的实现细节？
