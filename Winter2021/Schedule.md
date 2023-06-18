@@ -9,13 +9,12 @@
 - [x] cs224n-2019-notes01-wordvecs1
 
 5.3
-- [ ] assignment 1
-	- [x] core
-	- [ ] numpy tutotial
-	- [ ] numpy broadcast
+- [x] assignment 1
+- [x] numpy tutotial
+- [x] numpy broadcast
 
-deadline 5.14
-- [ ] lecture3 video 5.7
+deadline 6.25
+- [x] lecture3 video 5.7
 - [ ] lecture3 note 5.7
 - [ ] lecture4 video
 - [ ] lecture note
