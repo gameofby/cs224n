@@ -13,10 +13,10 @@
 - [x] numpy tutotial
 - [x] numpy broadcast
 
-deadline 6.25
+6.25
 - [x] lecture3 video 5.7
-- [ ] lecture3 note 5.7
+- [ ] lecture3 note 6.24
 - [ ] lecture4 video
-- [ ] lecture note
+- [ ] lecture4 note
 - [ ] pytorch session
 - [ ] assignment 2
