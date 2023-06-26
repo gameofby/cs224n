@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3e3b1af7f1099f01",
+        "id": "29da0d5dd87ec07c",
         "type": "tabs",
         "children": [
           {
-            "id": "e352f600fc76c5aa",
+            "id": "0ef524e6a0b70eb3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Winter2021/Lecture3/cs224n-2019-notes03-neuralnets.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
