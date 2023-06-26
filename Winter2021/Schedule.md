@@ -20,3 +20,5 @@
 - [ ] lecture4 note
 - [ ] pytorch session
 - [ ] assignment 2
+
+test
