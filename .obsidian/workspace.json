@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Winter2021/Lecture3/cs224n-2019-notes03-neuralnets.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Winter2021/Lecture3/cs224n-2019-notes03-neuralnets.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Winter2021/Lecture3/cs224n-2019-notes03-neuralnets.pdf"
-              }
+              "state": {}
             }
           }
         ]
@@ -142,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0edb18d5a175dbc5",
+  "active": "0ef524e6a0b70eb3",
   "lastOpenFiles": [
+    "Winter2021/Lecture3/cs224n-2019-notes03-neuralnets.pdf",
     "Winter2021/Lecture3/notes.md",
     "Winter2021/Schedule.md"
   ]
