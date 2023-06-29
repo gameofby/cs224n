@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "29da0d5dd87ec07c",
+        "id": "59a7f99c9e21fde0",
         "type": "tabs",
         "children": [
           {
-            "id": "0ef524e6a0b70eb3",
+            "id": "1a98de1db9a5825f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,11 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ef524e6a0b70eb3",
+  "active": "1a98de1db9a5825f",
   "lastOpenFiles": [
+    "Winter2021/Schedule.md",
     "Winter2021/Lecture3/Acr70047174768448747432.tmp",
     "Winter2021/Lecture3/cs224n-2019-notes03-neuralnets.pdf",
-    "Winter2021/Lecture3/notes.md",
-    "Winter2021/Schedule.md"
+    "Winter2021/Lecture3/notes.md"
   ]
 }
