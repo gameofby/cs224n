@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "59a7f99c9e21fde0",
+        "id": "0f4922cc6093c179",
         "type": "tabs",
         "children": [
           {
-            "id": "1a98de1db9a5825f",
+            "id": "df5c9e155b8669aa",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Winter2021/Assignment/a2/a2.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -144,7 +142,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a98de1db9a5825f",
+  "active": "0edb18d5a175dbc5",
   "lastOpenFiles": [
     "Winter2021/Schedule.md",
     "Winter2021/Lecture3/Acr70047174768448747432.tmp",
