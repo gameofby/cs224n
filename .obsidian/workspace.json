@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0f4922cc6093c179",
+        "id": "b15bea626d3f7ce0",
         "type": "tabs",
         "children": [
           {
-            "id": "df5c9e155b8669aa",
+            "id": "9c6aa146f32661df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Winter2021/Lecture4/notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Winter2021/Lecture4/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Winter2021/Lecture4/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Winter2021/Lecture4/notes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,12 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df5c9e155b8669aa",
+  "active": "9c6aa146f32661df",
   "lastOpenFiles": [
+    "Winter2021/Schedule.md",
     "Winter2021/Lecture4/notes.md",
     "Screenshot 2023-07-27 at 09.56.21.png",
     "Winter2021/Assignment/a2/a2.pdf",
-    "Winter2021/Schedule.md",
     "Winter2021/Lecture3/Acr70047174768448747432.tmp",
     "Winter2021/Lecture3/cs224n-2019-notes03-neuralnets.pdf",
     "Winter2021/Lecture3/notes.md"

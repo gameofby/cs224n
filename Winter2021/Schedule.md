@@ -16,7 +16,11 @@
 6.25
 - [x] lecture3 video 5.7
 - [x] lecture3 note 6.29
+
+7.27
+- [x] lecture4 note
+
+
 - [ ] lecture4 video
-- [ ] lecture4 note
 - [ ] pytorch session
 - [ ] assignment 2
