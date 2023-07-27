@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0f4922cc6093c179",
+        "id": "59a7f99c9e21fde0",
         "type": "tabs",
         "children": [
           {
-            "id": "df5c9e155b8669aa",
+            "id": "1a98de1db9a5825f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Winter2021/Lecture4/notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 348.5
   },
   "right": {
     "id": "d3f6c825934fef0b",
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Winter2021/Assignment/a2/a2.pdf",
+                "file": "Winter2021/Lecture4/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Winter2021/Assignment/a2/a2.pdf",
+                "file": "Winter2021/Lecture4/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Winter2021/Assignment/a2/a2.pdf"
+                "file": "Winter2021/Lecture4/notes.md"
               }
             }
           }
@@ -142,9 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0edb18d5a175dbc5",
+  "active": "1a98de1db9a5825f",
   "lastOpenFiles": [
     "Winter2021/Schedule.md",
+    "Winter2021/Lecture4/notes.md",
     "Winter2021/Lecture3/Acr70047174768448747432.tmp",
     "Winter2021/Lecture3/cs224n-2019-notes03-neuralnets.pdf",
     "Winter2021/Lecture3/notes.md"
