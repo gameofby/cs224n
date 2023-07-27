@@ -6,4 +6,4 @@
 words -> nested phrases
 
 2.Dependency structure
-大概从2000年开始，NLP研究者主要食用dependency grammar
+大概从2000年开始，NLP研究者主要使用dependency grammar
