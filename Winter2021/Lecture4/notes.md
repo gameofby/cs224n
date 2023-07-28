@@ -11,6 +11,8 @@ words -> nested phrases
 
 英语中有很多prepositional phrases，很容易造成歧义。寻找head的基本原则是，不造成crossing attachment
 ![[Screenshot 2023-07-27 at 09.56.21.png]]
+在编程语言的编译设计中，通常是不存在歧义的。不像自然语言，需要听者来消歧
+
 
 
 # PyTorch Tutorial Session
