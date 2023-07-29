@@ -13,7 +13,8 @@ words -> nested phrases
 ![[Screenshot 2023-07-27 at 09.56.21.png]]
 在编程语言的编译设计中，通常是不存在歧义的。不像自然语言，需要听者来消歧
 
-projectivity：arcs之间不存在交叉。  在实际的语言中，是
+projectivity：arcs之间不存在交叉。  但dependency theory是允许出现一些交叉的
+>dependency theory normally does allow non-projective structures to account for displaced constituents
 
 
 
