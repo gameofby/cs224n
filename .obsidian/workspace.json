@@ -11,8 +11,12 @@
             "id": "eeca7862f6a19fbc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Winter2021/Timeline.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Winter2021/Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Winter2021/Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Winter2021/Timeline.md"
+              }
             }
           }
         ]
@@ -140,9 +148,10 @@
   },
   "active": "eeca7862f6a19fbc",
   "lastOpenFiles": [
+    "README.md",
+    "Winter2021/Lecture4/Screenshot 2023-07-27 at 09.56.21.png",
     "Winter2021/Lecture4/notes.md",
-    "Screenshot 2023-07-27 at 09.56.21.png",
-    "Winter2021/Schedule.md",
+    "Winter2021/Timeline.md",
     "Winter2021/Lecture3/Acr70047174768448747432.tmp",
     "Winter2021/Lecture3/cs224n-2019-notes03-neuralnets.pdf",
     "Winter2021/Lecture3/notes.md"

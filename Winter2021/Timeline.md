@@ -20,7 +20,9 @@
 7.27
 - [x] lecture4 note
 
+7.29
+- [x] lecture4 video
 
-- [ ] lecture4 video
+
 - [ ] pytorch session
 - [ ] assignment 2
