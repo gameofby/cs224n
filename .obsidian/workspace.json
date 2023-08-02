@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e5a37a57d3abf8c7",
+        "id": "92789ef49f12875b",
         "type": "tabs",
         "children": [
           {
-            "id": "5bcdc5a04ae670b0",
+            "id": "0902f087888c7bd8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Winter2021/Assignment/a2/a2.pdf"
+                "file": "Winter2021/Lecture1/notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Winter2021/Assignment/a2/a2.pdf",
+                "file": "Winter2021/Lecture1/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Winter2021/Assignment/a2/a2.pdf",
+                "file": "Winter2021/Lecture1/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Winter2021/Assignment/a2/a2.pdf"
+                "file": "Winter2021/Lecture1/notes.md"
               }
             }
           }
@@ -144,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0edb18d5a175dbc5",
+  "active": "0902f087888c7bd8",
   "lastOpenFiles": [
+    "Winter2021/Assignment/a2/a2.pdf",
     "Winter2021/Assignment/a3/a3.pdf",
     "Winter2021/Assignment/a3/run.py",
     "Winter2021/Assignment/a3/parser_transitions.py",
@@ -156,7 +159,6 @@
     "Winter2021/Assignment/a3/utils/parser_utils.py",
     "Winter2021/Assignment/a3/utils/general_utils.py",
     "Winter2021/Assignment/a3/utils/__pycache__",
-    "Winter2021/Assignment/a3/utils/__init__.py",
     "Winter2021/Timeline.md",
     "README.md",
     "Winter2021/Lecture4/Screenshot 2023-07-27 at 09.56.21.png",
