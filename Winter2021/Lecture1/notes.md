@@ -5,6 +5,10 @@
 
 ## Q&A
 
+![[Pasted image 20230802095917.png]]
+
+![[Pasted image 20230802100059.png]]
+
 - Q: softmax计算的时候，负数的dot product取了exp会变成正数，那不是相当于不相似的都变大了？
 - A: 不会，exp是整体单调递减，负数取完exp不会比正数大
 
