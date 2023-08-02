@@ -144,17 +144,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bcdc5a04ae670b0",
+  "active": "0edb18d5a175dbc5",
   "lastOpenFiles": [
+    "Winter2021/Assignment/a3/a3.pdf",
+    "Winter2021/Assignment/a3/run.py",
+    "Winter2021/Assignment/a3/parser_transitions.py",
+    "Winter2021/Assignment/a3/parser_model.py",
+    "Winter2021/Assignment/a3/utils/__pycache__/parser_utils.cpython-37.pyc",
+    "Winter2021/Assignment/a3/utils/__pycache__/general_utils.cpython-37.pyc",
+    "Winter2021/Assignment/a3/utils/__pycache__/__init__.cpython-37.pyc",
+    "Winter2021/Assignment/a3/utils/parser_utils.py",
+    "Winter2021/Assignment/a3/utils/general_utils.py",
+    "Winter2021/Assignment/a3/utils/__pycache__",
+    "Winter2021/Assignment/a3/utils/__init__.py",
     "Winter2021/Timeline.md",
-    "Winter2021/session/CS224N_PyTorch_Tutorial.ipynb",
-    "CS224N_PyTorch_Tutorial.ipynb",
-    "“CS224N_PyTorch_Tutorial_ipynb”的副本.ipynb",
     "README.md",
     "Winter2021/Lecture4/Screenshot 2023-07-27 at 09.56.21.png",
     "Winter2021/Lecture4/notes.md",
-    "Winter2021/Lecture3/Acr70047174768448747432.tmp",
-    "Winter2021/Lecture3/cs224n-2019-notes03-neuralnets.pdf",
     "Winter2021/Lecture3/notes.md"
   ]
 }
