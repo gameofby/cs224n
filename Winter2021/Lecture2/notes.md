@@ -28,6 +28,3 @@ unigram distribution: 词在corpus中出现的频率
 
 singular value decomposition 奇异值分解
 
-
-
-# 
