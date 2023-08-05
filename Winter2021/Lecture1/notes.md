@@ -4,7 +4,13 @@
 WordNet: 类属词典，包含同义词/上位词等，是早期nlp用来记录word meaning的手段
 缺点
 1. 缺乏对同义词间的细微差别的记录
-2. 老词新意、新词等，很难维持up-to-date
+2. 老词新意、新词等，人工很难维持up-to-date
+3. 不能用于计算准确的word similarity
+
+one-hot，视words为离散符号
+缺点：vertor正交，无法计算word相似度
+
+
 
 
 用dot product来计算word similarity是一种很常见的方法。 0\*0不影响结果，+ \* -减小结果，同号相乘增大结果。  结果越大，说明两个词越相似
