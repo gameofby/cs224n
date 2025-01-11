@@ -1,0 +1,1 @@
+Encoder can see both direction context. Decoder only can see previous context
